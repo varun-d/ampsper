@@ -14,7 +14,7 @@ Activate theme from your settings.
 
 Add the following section within your Ghost custom Header with the necessary format.
 
-```
+```html
 <style amp-custom> </style>
 ```
 
